@@ -1,6 +1,7 @@
 # Cobalt Strike CheatSheet
 
 General notes and advices for cobalt strike C2 framework.
+Originally forked over from @S1ckB0y1337
 
 ## Summary
 
